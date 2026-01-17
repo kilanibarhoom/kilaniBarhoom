@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Kilani</h1>
 
--  👤 [Portfolio](https://portfolio-kilani.vercel.app/)
+-  👤 [Portfolio](https://me.kilanibarhoom.com/)
 
 -  🔭 I’m a **CSE student**  
 
