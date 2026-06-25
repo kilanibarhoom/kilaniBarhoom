@@ -3,6 +3,8 @@
 
 -  👤 [Portfolio](https://kilanibarhoom.com/)
 
+-  📃 [Resume](https://flowcv.com/resume/scc2ih7v99)
+
 -  🔭 I’m a **CSE student**  
 
 -   📫 How to reach me **ibrahim.kilan@gmail.com** 
