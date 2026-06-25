@@ -7,7 +7,7 @@
 
 -  🔭 I’m a **CSE student**  
 
--   📫 How to reach me **ibrahim.kilan@gmail.com** 
+-   📫 How to reach me **info@kilanibarhoom.com** 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
